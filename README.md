@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Meha</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Waving hand" width="35px">, I'm Meha</h1>
+
 <h3 align="center">💻 CS Engineering Student | Passionate about Full stack dev & DSA 🚀</h3>
 
 ---
