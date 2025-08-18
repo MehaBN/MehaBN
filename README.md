@@ -36,7 +36,9 @@
 ![Git](https://skillicons.dev/icons?i=git)  ![GitHub](https://skillicons.dev/icons?i=github)  ![Visual Studio](https://skillicons.dev/icons?i=visualstudio)  ![Eclipse](https://skillicons.dev/icons?i=eclipse)  ![Postman](https://skillicons.dev/icons?i=postman)  
 
 **Technologies** :  
-Backend Development | Full Stack | App Development  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&vCenter=true&lines=💻+Backend+Developer;🌐+Full+Stack+Enthusiast;📱+App+Developer" />
+</p>  
 
 ---
 
@@ -53,3 +55,5 @@ Backend Development | Full Stack | App Development
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white"/>
   </a> -->
 </p>
+  
+
