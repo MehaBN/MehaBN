@@ -24,20 +24,19 @@
 ## 🛠️ Tech Stack  
 
 **Languages** :  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![Java](https://skillicons.dev/icons?i=java)  ![C](https://skillicons.dev/icons?i=c)  ![HTML](https://skillicons.dev/icons?i=html)  ![CSS](https://skillicons.dev/icons?i=css)  ![Python](https://skillicons.dev/icons?i=py)  
 
 **Frameworks** :  
-![Spring](https://img.shields.io/badge/Spring%20MVC-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  ![NodeJS](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
+![Spring](https://skillicons.dev/icons?i=spring)  ![React](https://skillicons.dev/icons?i=react)  ![NodeJS](https://skillicons.dev/icons?i=nodejs)  ![Angular](https://skillicons.dev/icons?i=angular)  ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)  
 
 **Database** :  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![MySQL](https://skillicons.dev/icons?i=mysql)  
 
 **Tools** :  
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)  ![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
+![Git](https://skillicons.dev/icons?i=git)  ![GitHub](https://skillicons.dev/icons?i=github)  ![Visual Studio](https://skillicons.dev/icons?i=visualstudio)  ![Eclipse](https://skillicons.dev/icons?i=eclipse)  ![Postman](https://skillicons.dev/icons?i=postman)  
 
 **Technologies** :  
-Backend Development, Full Stack, App Development  
-
+Backend Development | Full Stack | App Development  
 
 ---
 
