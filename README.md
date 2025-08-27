@@ -11,16 +11,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <!-- Streak Stats -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=MehaBN&theme=radical" alt="GitHub Streak" />
-  </a>
-</p>
-
----
 
 ## 🛠️ Tech Stack  
 
