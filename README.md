@@ -32,9 +32,9 @@
 </p>  
 
 ---
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MehaBN&theme=bear" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MehaBN&theme=bear" alt="GitHub Streak" /></a>
 
----
+--- -->
 
 ### 🔗 Connect with Me  
 
