@@ -36,6 +36,11 @@
 
 --- -->
 
+## 📈 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MehaBN&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+---
+
 ### 🔗 Connect with Me  
 
 <p align="center">
