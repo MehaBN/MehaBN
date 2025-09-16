@@ -7,7 +7,7 @@
 ### 🌟 About Me  
 - 🌱 Currently learning **DSA & Full stack Development**  
 - ⚡ Interested in **Spring Boot, Flutter, Java AI tools and many more**   
-- ✨ I enjoy building projects that solve real problems  
+- ✨ I enjoy building projects that solve real world problems  
 
 ---
 
