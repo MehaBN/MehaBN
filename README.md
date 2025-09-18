@@ -37,7 +37,7 @@
 --- -->
 
 ## 📈 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MehaBN&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](http://streak-stats.demolab.com/?user=MehaBN&theme=tokyonight&hide_border=true)
 
 ---
 
